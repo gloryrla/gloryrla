@@ -5,8 +5,6 @@
 
 ---
 
-<br>
-
 ### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -14,7 +12,6 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br>
 
 ---
 
@@ -26,7 +23,6 @@
 | **[💘 좋아하면 울리는](https://app.notion.com/p/ae6a246e31ff821cb5a0816833e5cbaf?source=copy_link)** | 대학 축제 부스 연계 블라인드 매칭 웹 서비스. 온·오프라인 결제-권한 연결, 학과 단위 노출 차단 | 서비스 기획 · QA · 운영 | 등록 **253명** · 매칭 **88쌍** · 매출 63만원 |
 | **🍽️ [Renaissance](https://github.com/gloryrla/Renaissance)** | 그룹 메뉴 추천·투표 서비스. 알레르기 하드필터 + 비선호 단계적 완화로 후보 3개 추출 후 호/불호 투표로 확정 | 백엔드 개발 | Spring Boot · Docker 배포, [추천 알고리즘 문서화](https://github.com/gloryrla/Renaissance/blob/main/ALGORITHMS.md) |
 
-<br>
 
 ---
 
