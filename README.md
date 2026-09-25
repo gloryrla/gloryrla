@@ -3,6 +3,8 @@
 유지보수하기 쉬운 서버를 만들고, 데이터로 의사결정하는 걸 좋아합니다.
 전남대학교 인공지능학부 · Econovation 31기 BE
 
+---
+
 <br>
 
 ### 🛠 Tech Stack
@@ -14,6 +16,8 @@
 
 <br>
 
+---
+
 ### 📌 Projects
 
 | 프로젝트 | 설명 | 역할 | 성과 |
@@ -23,6 +27,8 @@
 | **🍽️ [Renaissance](https://github.com/gloryrla/Renaissance)** | 그룹 메뉴 추천·투표 서비스. 알레르기 하드필터 + 비선호 단계적 완화로 후보 3개 추출 후 호/불호 투표로 확정 | 백엔드 개발 | Spring Boot · Docker 배포, [추천 알고리즘 문서화](https://github.com/gloryrla/Renaissance/blob/main/ALGORITHMS.md) |
 
 <br>
+
+---
 
 ### 🔗 Contact
 
