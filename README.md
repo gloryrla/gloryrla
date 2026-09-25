@@ -26,5 +26,5 @@
 
 ### 🔗 Contact
 
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](노션_공개_링크로_교체)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Glory-s-Profile-3dfa246e31ff80f08db1dd1e9be3bea5?source=copy_link)
 [![Gmail](https://img.shields.io/badge/kyg030414@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyg030414@gmail.com)
